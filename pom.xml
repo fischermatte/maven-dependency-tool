@@ -10,6 +10,7 @@
     <version>1.0</version>
 
     <modules>
+        <module>dummy-poms</module>
         <module>maven-dependency-tool</module>
     </modules>
 
